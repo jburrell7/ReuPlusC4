@@ -29,7 +29,7 @@ PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 ForceUpdateCount=0
-OutputPath=Outputs
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 LinkedManagedProjectGUID=
@@ -197,278 +197,94 @@ DocumentPath=Default Configuration\Outputs\BOM\BOM_PartType-InterfaceSDRAM.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\comp_+_bot\components
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\comp_+_top\components
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\eda\data
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\bottom\features
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\bottomoverlay\features
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\bottompaste\features
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\bottomsolder\features
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\comp_+_bot\features
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\comp_+_top\features
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\Dimensions\features
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\drill\features
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\keepout\features
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\Outline\features
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\plane1\features
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\plane2\features
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\top\features
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\topoverlay\features
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\toppaste\features
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\topsolder\features
-DItemRevisionGUID=
-
-[GeneratedDocument21]
 DocumentPath=INTFCX.LOG
 DItemRevisionGUID=
 
-[GeneratedDocument22]
+[GeneratedDocument3]
 DocumentPath=Default Configuration\Outputs\Gerber\INTFCX_SDRAM.Dimensions
 DItemRevisionGUID=
 
-[GeneratedDocument23]
+[GeneratedDocument4]
 DocumentPath=Default Configuration\Outputs\NC Drill\INTFCX_SDRAM.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument24]
+[GeneratedDocument5]
 DocumentPath=Default Configuration\Outputs\Gerber\INTFCX_SDRAM.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument25]
+[GeneratedDocument6]
 DocumentPath=Default Configuration\Outputs\Gerber\INTFCX_SDRAM.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument26]
+[GeneratedDocument7]
 DocumentPath=Default Configuration\Outputs\Gerber\INTFCX_SDRAM.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument27]
+[GeneratedDocument8]
 DocumentPath=Default Configuration\Outputs\Gerber\INTFCX_SDRAM.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument28]
+[GeneratedDocument9]
 DocumentPath=Default Configuration\Outputs\Gerber\INTFCX_SDRAM.GD1
 DItemRevisionGUID=
 
-[GeneratedDocument29]
+[GeneratedDocument10]
 DocumentPath=Default Configuration\Outputs\Gerber\INTFCX_SDRAM.GG1
 DItemRevisionGUID=
 
-[GeneratedDocument30]
+[GeneratedDocument11]
 DocumentPath=Default Configuration\Outputs\Gerber\INTFCX_SDRAM.GP1
 DItemRevisionGUID=
 
-[GeneratedDocument31]
+[GeneratedDocument12]
 DocumentPath=Default Configuration\Outputs\Gerber\INTFCX_SDRAM.GP2
 DItemRevisionGUID=
 
-[GeneratedDocument32]
+[GeneratedDocument13]
 DocumentPath=Default Configuration\Outputs\Gerber\INTFCX_SDRAM.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument33]
+[GeneratedDocument14]
 DocumentPath=Default Configuration\Outputs\Gerber\INTFCX_SDRAM.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument34]
+[GeneratedDocument15]
 DocumentPath=Default Configuration\Outputs\Gerber\INTFCX_SDRAM.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument35]
+[GeneratedDocument16]
 DocumentPath=Default Configuration\Outputs\Gerber\INTFCX_SDRAM.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument36]
+[GeneratedDocument17]
 DocumentPath=Default Configuration\Outputs\NC Drill\INTFCX_SDRAM.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument37]
+[GeneratedDocument18]
 DocumentPath=Default Configuration\Outputs\Gerber\INTFCX_SDRAM.REP
 DItemRevisionGUID=
 
-[GeneratedDocument38]
-DocumentPath=Default Configuration\Outputs\ODB\INTFCX_SDRAM.REP
-DItemRevisionGUID=
-
-[GeneratedDocument39]
+[GeneratedDocument19]
 DocumentPath=Default Configuration\Outputs\Gerber\INTFCX_SDRAM.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument40]
+[GeneratedDocument20]
 DocumentPath=Default Configuration\Outputs\NC Drill\INTFCX_SDRAM.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument41]
+[GeneratedDocument21]
 DocumentPath=Default Configuration\Outputs\Board Stack Report\INTFCX_SDRAM.xls
 DItemRevisionGUID=
 
-[GeneratedDocument42]
-DocumentPath=Default Configuration\Outputs\Gerber\INTFCX_SRAM.Dimensions
-DItemRevisionGUID=
-
-[GeneratedDocument43]
-DocumentPath=Default Configuration\Outputs\NC Drill\INTFCX_SRAM.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument44]
-DocumentPath=Default Configuration\Outputs\Gerber\INTFCX_SRAM.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument45]
-DocumentPath=Default Configuration\Outputs\Gerber\INTFCX_SRAM.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument46]
-DocumentPath=Default Configuration\Outputs\Gerber\INTFCX_SRAM.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument47]
-DocumentPath=Default Configuration\Outputs\Gerber\INTFCX_SRAM.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument48]
-DocumentPath=Default Configuration\Outputs\Gerber\INTFCX_SRAM.GD1
-DItemRevisionGUID=
-
-[GeneratedDocument49]
-DocumentPath=Default Configuration\Outputs\Gerber\INTFCX_SRAM.GG1
-DItemRevisionGUID=
-
-[GeneratedDocument50]
-DocumentPath=Default Configuration\Outputs\Gerber\INTFCX_SRAM.GP1
-DItemRevisionGUID=
-
-[GeneratedDocument51]
-DocumentPath=Default Configuration\Outputs\Gerber\INTFCX_SRAM.GP2
-DItemRevisionGUID=
-
-[GeneratedDocument52]
-DocumentPath=Default Configuration\Outputs\Gerber\INTFCX_SRAM.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument53]
-DocumentPath=Default Configuration\Outputs\Gerber\INTFCX_SRAM.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument54]
-DocumentPath=Default Configuration\Outputs\Gerber\INTFCX_SRAM.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument55]
-DocumentPath=Default Configuration\Outputs\Gerber\INTFCX_SRAM.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument56]
-DocumentPath=Default Configuration\Outputs\NC Drill\INTFCX_SRAM.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument57]
-DocumentPath=Default Configuration\Outputs\Gerber\INTFCX_SRAM.REP
-DItemRevisionGUID=
-
-[GeneratedDocument58]
-DocumentPath=Default Configuration\Outputs\ODB\INTFCX_SRAM.REP
-DItemRevisionGUID=
-
-[GeneratedDocument59]
-DocumentPath=Default Configuration\Outputs\Gerber\INTFCX_SRAM.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument60]
-DocumentPath=Default Configuration\Outputs\NC Drill\INTFCX_SRAM.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument61]
-DocumentPath=Default Configuration\Outputs\Board Stack Report\INTFCX_SRAM.xls
-DItemRevisionGUID=
-
-[GeneratedDocument62]
+[GeneratedDocument22]
 DocumentPath=INTFCY.LOG
 DItemRevisionGUID=
 
-[GeneratedDocument63]
-DocumentPath=Default Configuration\Outputs\ODB\odb\matrix\matrix
-DItemRevisionGUID=
-
-[GeneratedDocument64]
+[GeneratedDocument23]
 DocumentPath=MsxDE1.LOG
 DItemRevisionGUID=
 
-[GeneratedDocument65]
-DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\netlists\cadnet\netlist
-DItemRevisionGUID=
-
-[GeneratedDocument66]
-DocumentPath=Outputs\Net Status - INTFCX_SDRAM.html
-DItemRevisionGUID=
-
-[GeneratedDocument67]
-DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\profile
-DItemRevisionGUID=
-
-[GeneratedDocument68]
-DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\stephdr
-DItemRevisionGUID=
-
-[GeneratedDocument69]
-DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\drill\tools
-DItemRevisionGUID=
-
-[GeneratedDocument70]
+[GeneratedDocument24]
 DocumentPath=TS_CONN.LOG
 DItemRevisionGUID=
 
@@ -485,7 +301,7 @@ DocumentReferenceClass1=DocumentReference
 OutputJobFileName1=Interface.OutJob
 
 [Generic_EDE]
-OutputDir=Outputs
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
