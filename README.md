@@ -63,19 +63,19 @@ The current design uses an ADA Fruit module which has been successfully
 tested on the carrier board. As stated above, the module will need to
 be changed.
 
-* WIFI module with serial interface
+* **WIFI module with serial interface:**
 This is a module that would allow connection of the C64 to the internet
 via standard WIFI. These modules are relatively inexpensive and are readily
 available. No testing has yet been done with this module.
 
-* 128 byte I2C EEPROM
+* **128 byte I2C EEPROM:**
 
 This chip contains 64 bytes of EEPROM for parameter storage. The other
 128 bytes is used to store the MAC address required by the WIFI module.
 The component is manufactured by Microchip Technologies and is inexpensive
 and readily available.
 
-* USB to serial module
+* **USB to serial module:**
 
 This module provides up to 3M bits per second serial communications via
 a USB connection. The C64 side uses a standard asynchronous protocol. It
@@ -85,14 +85,14 @@ would then tell the FPGA to send or receive a packet. The C64 would
 then go on its merry way until it was interrupted when the packet
 operation was completed.
 
-* 8MBi Serial Flash
+* **8MBi Serial Flash:**
 This chip is designed to store code and data that can be loaded
 into the onboard memory. So far this is still not well developed
 but I am looking at adding something like EZFlash-like functionality.
 This device will never be EZFlash compatible because of fundamental
 incompatiblities in the address spaces.
 
-* SD Card
+* **SD Card:**
 The carrier board has a full size SD card connector. Presently there
 are no specific plans for its use. This board will not attempt SD2IEC
 functionality since there are many better alternatives.
