@@ -1,0 +1,18 @@
+[OutputStatus]
+OutputFileNames0=E:\GitRepositories\ReuPlus\PCB_SDRAM\Default Configuration\Outputs\Gerber\INTFCX_SDRAM.GTL
+OutputFileNames1=E:\GitRepositories\ReuPlus\PCB_SDRAM\Default Configuration\Outputs\Gerber\INTFCX_SDRAM.GP1
+OutputFileNames2=E:\GitRepositories\ReuPlus\PCB_SDRAM\Default Configuration\Outputs\Gerber\INTFCX_SDRAM.GP2
+OutputFileNames3=E:\GitRepositories\ReuPlus\PCB_SDRAM\Default Configuration\Outputs\Gerber\INTFCX_SDRAM.GBL
+OutputFileNames4=E:\GitRepositories\ReuPlus\PCB_SDRAM\Default Configuration\Outputs\Gerber\INTFCX_SDRAM.GTO
+OutputFileNames5=E:\GitRepositories\ReuPlus\PCB_SDRAM\Default Configuration\Outputs\Gerber\INTFCX_SDRAM.GTP
+OutputFileNames6=E:\GitRepositories\ReuPlus\PCB_SDRAM\Default Configuration\Outputs\Gerber\INTFCX_SDRAM.GTS
+OutputFileNames7=E:\GitRepositories\ReuPlus\PCB_SDRAM\Default Configuration\Outputs\Gerber\INTFCX_SDRAM.GBS
+OutputFileNames8=E:\GitRepositories\ReuPlus\PCB_SDRAM\Default Configuration\Outputs\Gerber\INTFCX_SDRAM.GBO
+OutputFileNames9=E:\GitRepositories\ReuPlus\PCB_SDRAM\Default Configuration\Outputs\Gerber\INTFCX_SDRAM.Dimensions
+OutputFileNames10=E:\GitRepositories\ReuPlus\PCB_SDRAM\Default Configuration\Outputs\Gerber\INTFCX_SDRAM.GD1
+OutputFileNames11=E:\GitRepositories\ReuPlus\PCB_SDRAM\Default Configuration\Outputs\Gerber\INTFCX_SDRAM.GG1
+OutputFileNames12=E:\GitRepositories\ReuPlus\PCB_SDRAM\Default Configuration\Outputs\Gerber\INTFCX_SDRAM.RUL
+OutputFileNames13=E:\GitRepositories\ReuPlus\PCB_SDRAM\Default Configuration\Outputs\Gerber\INTFCX_SDRAM.EXTREP
+OutputFileNames14=E:\GitRepositories\ReuPlus\PCB_SDRAM\Default Configuration\Outputs\Gerber\INTFCX_SDRAM.REP
+Success=1
+HasRun=1

@@ -1,0 +1,20 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: INTFCX_SDRAM.CSPCBDoc   5/29/2020  2:50:45 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : INTFCX_SDRAM.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        20mil (0.508mm)          Round          233              52.08 Inch (1322.74 mm)
+T2        28mil (0.7112mm)         Round          3                6.17 Inch (156.71 mm)
+T3        40mil (1.016mm)          Round          228              35.27 Inch (895.92 mm)
+T4        100mil (2.54mm)          Round          2                0.70 Inch (17.79 mm)
+T5        43.31mil (1.10007mm)     Round          1         NPTH   0.00 Inch (0.00 mm)
+T6        62.99mil (1.59995mm)     Round          1         NPTH   0.00 Inch (0.00 mm)
+T7        125mil (3.175mm)         Round          4         NPTH   13.61 Inch (345.65 mm)
+---------------------------------------------------------------------------
+Totals                                            472              107.83 Inch (2738.81 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 2:50:45 PM On 5/29/2020
+
+Output: Board Stack Report
+Type  : Board Stack Report
+From  : PCB Document [INTFCX_SDRAM.CSPCBDoc]
+   Generated File[INTFCX_SDRAM.xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 2:50:47 PM On 5/29/2020
