@@ -59,6 +59,7 @@ the carrier board design.
 The carrier board contains provision for the following peripherals:
 
 * I2C battery backed RTC.
+
 The current design uses an ADA Fruit module which has been successfully
 tested on the carrier board. As stated above, the module will need to
 be changed.
@@ -66,7 +67,7 @@ be changed.
 * WIFI module with serial interface
 This is a module that would allow connection of the C64 to the internet
 via standard WIFI. These modules are relatively inexpensive and are readily
-available. No testing has been done yet with this module.
+available. No testing has yet been done with this module.
 
 * 128 byte I2C EEPROM
 This chip contains 64 bytes of EEPROM for parameter storage. The other
