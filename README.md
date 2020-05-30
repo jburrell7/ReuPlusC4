@@ -69,14 +69,12 @@ via standard WIFI. These modules are relatively inexpensive and are readily
 available. No testing has yet been done with this module.
 
 * **128 byte I2C EEPROM:**
-
 This chip contains 64 bytes of EEPROM for parameter storage. The other
 128 bytes is used to store the MAC address required by the WIFI module.
 The component is manufactured by Microchip Technologies and is inexpensive
 and readily available.
 
 * **USB to serial module:**
-
 This module provides up to 3M bits per second serial communications via
 a USB connection. The C64 side uses a standard asynchronous protocol. It
 is envisioned that this will be a packet based peripheral with the C64
