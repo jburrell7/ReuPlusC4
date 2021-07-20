@@ -1,5 +1,8 @@
 # ReuPlus
 
+THIS PROJECT IS DISCONTINUED BECAUSE THE FPGA BOARD IS NO LONGER
+AVAILABLE
+
 This project implements an open source REU for the Commodore 64.
 
 The hardware consists of two PCBs
